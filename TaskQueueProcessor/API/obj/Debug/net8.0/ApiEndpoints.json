@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "TaskQueueProcessor.Api.Controllers.TasksController",
+    "Method": "Pending",
+    "RelativePath": "api/Tasks/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskQueueProcessor.Api.Controllers.TasksController",
+    "Method": "SimulateDbUpdate",
+    "RelativePath": "api/Tasks/simulate-db-update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "TaskQueueProcessor.Api.Controllers.TasksController\u002BSimulateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskQueueProcessor.Api.Controllers.TasksController",
+    "Method": "GetStatus",
+    "RelativePath": "api/Tasks/status/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

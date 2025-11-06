@@ -1,0 +1,14 @@
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\bin\Debug\net8.0\Domain.dll
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\bin\Debug\net8.0\Domain.pdb
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.dll
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.pdb
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+F:\Development\TaskQueueProcessor\TaskQueueProcessor\Domain\obj\Debug\net8.0\ref\Domain.dll

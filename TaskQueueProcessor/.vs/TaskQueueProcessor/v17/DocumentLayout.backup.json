@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\infrastructure\\services\\dbpollingproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\dbpollingproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\infrastructure\\services\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\infrastructure\\services\\warmuphostedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\warmuphostedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\infrastructure\\queue\\backgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99793C9E-F2C8-4641-9C08-AB21BC584862}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\queue\\backgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93512C97-5665-4F21-AB11-CB5A8D865A53}|Application\\Application.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\application\\services\\taskprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93512C97-5665-4F21-AB11-CB5A8D865A53}|Application\\Application.csproj|solutionrelative:application\\services\\taskprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93512C97-5665-4F21-AB11-CB5A8D865A53}|Application\\Application.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\application\\interfaces\\ibackgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93512C97-5665-4F21-AB11-CB5A8D865A53}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ibackgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80B1E39-399A-26A9-51A6-62D620CB2DEB}|Tests\\Api.Tests.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\tests\\warmuphostedservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80B1E39-399A-26A9-51A6-62D620CB2DEB}|Tests\\Api.Tests.csproj|solutionrelative:tests\\warmuphostedservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80B1E39-399A-26A9-51A6-62D620CB2DEB}|Tests\\Api.Tests.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\tests\\taskscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80B1E39-399A-26A9-51A6-62D620CB2DEB}|Tests\\Api.Tests.csproj|solutionrelative:tests\\taskscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E233B84-51CC-4861-AC07-DF5FEFA4F1F0}|API\\API.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E233B84-51CC-4861-AC07-DF5FEFA4F1F0}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E233B84-51CC-4861-AC07-DF5FEFA4F1F0}|API\\API.csproj|f:\\development\\taskqueueprocessor\\taskqueueprocessor\\api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E233B84-51CC-4861-AC07-DF5FEFA4F1F0}|API\\API.csproj|solutionrelative:api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 52,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarmupHostedServices.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Services\\WarmupHostedServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\WarmupHostedServices.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Services\\WarmupHostedServices.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\WarmupHostedServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:45:18.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueuedHostedService.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Services\\QueuedHostedService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\QueuedHostedService.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Services\\QueuedHostedService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\QueuedHostedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:44:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbPollingProducerService.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Services\\DbPollingProducerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\DbPollingProducerService.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Services\\DbPollingProducerService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\DbPollingProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:44:44.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackgroundTaskQueue.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Queue\\BackgroundTaskQueue.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Queue\\BackgroundTaskQueue.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Queue\\BackgroundTaskQueue.cs",
+              "RelativeToolTip": "Infrastructure\\Queue\\BackgroundTaskQueue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:44:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:43:56.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBackgroundTaskQueue.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Application\\Interfaces\\IBackgroundTaskQueue.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IBackgroundTaskQueue.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Application\\Interfaces\\IBackgroundTaskQueue.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IBackgroundTaskQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:43:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WarmupHostedServiceTests.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Tests\\WarmupHostedServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\WarmupHostedServiceTests.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Tests\\WarmupHostedServiceTests.cs",
+              "RelativeToolTip": "Tests\\WarmupHostedServiceTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:43:17.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TasksControllerTests.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Tests\\TasksControllerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\TasksControllerTests.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Tests\\TasksControllerTests.cs",
+              "RelativeToolTip": "Tests\\TasksControllerTests.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:43:10.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:42:32.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TasksController.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:42:05.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskProcessorService.cs",
+              "DocumentMoniker": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Application\\Services\\TaskProcessorService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TaskProcessorService.cs",
+              "ToolTip": "F:\\Development\\TaskQueueProcessor\\TaskQueueProcessor\\Application\\Services\\TaskProcessorService.cs",
+              "RelativeToolTip": "Application\\Services\\TaskProcessorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:41:34.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
